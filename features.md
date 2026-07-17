@@ -58,4 +58,9 @@ Convicta can summarize and translate news into your language. These are metered 
 ## What we deliberately don't claim
 
 - **Not real-time news alerts.** News-to-market matching runs on a batch cadence. It's built to be timely and complete, not millisecond-live.
-- **No accuracy percentage — yet.** We lead with *auditability and determinism* because those are properties of the design you can verify today. We don't publish a hit-rate or accuracy figure until it's been measured on a labeled benchmark. When we have one, we'll show the methodology.
+- **No accuracy percentage — yet.** We lead with *auditability and traceability* because those are properties of the design you can verify today. We don't publish a hit-rate or accuracy figure until it's been measured on a labeled benchmark. When we have one, we'll show the methodology.
+
+
+## Roadmap — in development
+
+- **Trading engine — in active development, not live yet.** We're actively building a trading engine for real-time signal-based trading — turning alerts and news→market signals into an execution layer. In active development, not live yet.

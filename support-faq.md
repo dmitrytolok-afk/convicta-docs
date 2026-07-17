@@ -43,6 +43,9 @@ Yes, on the paid News Standard plan you can add your own sources and import an O
 **Do I have to connect a wallet to use Pulse?**
 For the personalized feed and alerts, yes — a Polymarket 0x wallet address. There's also a read-only "Browse Explore without a wallet" path if you just want to look around.
 
+**Does adding a wallet give Convicta access to my funds?**
+No. Convicta never manages or touches your funds — no keys, no trades, no access. Adding a wallet is purely a convenience feature to subscribe to alerts about that wallet: any address works, even an empty one; we only read public data.
+
 **How do I sign in on the web?**
 With Google, email, or Telegram. See [Web version]({{ '/getting-started/web-version/' | relative_url }}).
 
