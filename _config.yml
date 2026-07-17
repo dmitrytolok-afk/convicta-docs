@@ -1,0 +1,22 @@
+title: Convicta Docs
+description: >-
+  Convicta is a news engine that understands what a headline means — and, when
+  it matters, what that means for a market. Public documentation.
+remote_theme: just-the-docs/just-the-docs
+url: https://dmitrytolok-afk.github.io
+baseurl: /convicta-docs
+
+# Theme options
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+
+# Footer / repo
+gh_edit_link: false
+
+# Exclude repo scaffolding from the build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
