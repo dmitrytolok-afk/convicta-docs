@@ -29,13 +29,13 @@ Pulse is a community testing version. It's aimed at existing Polymarket traders,
 Yes — free for your first two months while we're in community testing (a 60-day trial on News, a 60-day grant on Pulse's full tier). Access is free right now because we're still collecting feedback and some features aren't yet fully polished. After that you can stay on a free tier or subscribe. See [Pricing]({{ '/pricing/' | relative_url }}).
 
 **Why are some features "warming up"?**
-The AI-assisted surfaces — news summaries, translations, and the Pulse **Edge** read — are metered and may be limited or paused while we're in community testing. The deterministic core (feed, dedup, tagging, price/resolution/trader alerts) runs normally. We flag these features as ⏳ warming up in the docs.
+The AI-assisted surfaces — news summaries, translations, and the Pulse **Edge** read — are metered and may be limited or paused while we're in community testing. The rule-based core (feed, dedup, tagging, price/resolution/trader alerts) runs normally. We flag these features as ⏳ warming up in the docs.
 
 **Do I get real-time news alerts?**
 No — and we don't claim to. News-to-market matching runs on a regular batch cadence. It's designed to be timely and complete, not a millisecond-live ticker. Pulse's price and market-status alerts, however, run off live market data.
 
 **Why did a particular story show up in my feed?**
-Because it matched an explicit rule. Convicta's matching is deterministic and auditable: every item traces back to named entities and the rule that connected them, not a hidden similarity score. Cards carry a "why you got this" context line.
+Because it matched an explicit rule. Convicta's matching is explainable and traceable: every item traces back to named entities and the rule that connected them, not a hidden similarity score. Cards carry a "why you got this" context line.
 
 **Can I use my own news sources?**
 Yes, on the paid News Standard plan you can add your own sources and import an OPML file. It's free to try during the 2-month trial. See [Getting started: Convicta News]({{ '/getting-started/convicta-news/' | relative_url }}).

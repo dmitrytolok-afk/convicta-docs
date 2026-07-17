@@ -8,7 +8,7 @@ permalink: /
 
 **Convicta is a news engine that understands what a headline actually means — and, when it matters, what that means for a market.**
 
-Most alerting tools match on keywords or on a black-box similarity score: you get a ping, but you can't see *why*. Convicta is built the opposite way. At its core is a deterministic matcher that reduces both a news event and a topic (or a prediction market) to explicit relationships — *who did what to whom* — and connects them only when those relationships line up. The result is a feed you can audit: every item can be traced back to the exact entities and the exact rule that put it in front of you.
+Most alerting tools match on keywords or on a black-box similarity score: you get a ping, but you can't see *why*. Convicta is built the opposite way. At its core is a rule-based engine that reduces both a news event and a topic (or a prediction market) to explicit relationships — *who did what to whom* — and connects them only when those relationships line up, so news is connected to the exact market it moves. The result is a feed you can audit: every item can be traced back to the exact entities and the exact rule that put it in front of you.
 
 The ecosystem has two products, built on that one engine:
 
@@ -26,7 +26,7 @@ Pulse takes the same engine and points it at [Polymarket](https://polymarket.com
 
 Both products are presented together on the web, but they are **two separate Telegram Mini Apps** with their own onboarding. Pick the one that fits — or use both.
 
-## Why deterministic, explainable matching matters
+## Why explainable, traceable matching matters
 
 - **Auditability.** Every match traces to named entities and a named rule over open, inspectable data — not a hidden embedding score. If a story shows up in your feed, you can see the reason.
 - **No hallucinated matches.** The matching decision is made by explicit rules, not by a language model guessing at runtime. Language models are used only to *build* the underlying knowledge — never to make the live match. That keeps the feed grounded: it won't invent a connection that isn't there.

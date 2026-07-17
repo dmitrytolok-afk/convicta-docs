@@ -49,7 +49,7 @@ Pulse is **a community testing version**. Plans are paid through **CryptoPay** (
 
 > **About the Edge read:** Edge is an AI-computed fair-value estimate that improves over time as our models and data get better. It's an additional metric that may help you make a decision on prediction markets — it is **not financial advice**, and the decision is yours. See [Features]({{ '/features/' | relative_url }}).
 
-> **A reminder while we're testing:** the AI-assisted surfaces (summaries, translations, and the Pulse **Edge** read) are metered and may be limited or paused while Convicta is in community testing — see [Features]({{ '/features/' | relative_url }}). Your plan's deterministic features (feed, dedup, price/resolution/trader alerts) run normally regardless.
+> **A reminder while we're testing:** the AI-assisted surfaces (summaries, translations, and the Pulse **Edge** read) are metered and may be limited or paused while Convicta is in community testing — see [Features]({{ '/features/' | relative_url }}). Your plan's rule-based features (feed, dedup, price/resolution/trader alerts) run normally regardless.
 
 ## How payment works
 

@@ -6,14 +6,14 @@ permalink: /features/
 
 # Features
 
-Everything below runs on the one deterministic engine described in the [Introduction]({{ '/' | relative_url }}). Features marked **⏳ warming up** are AI-assisted and metered — while we're in community testing they may be limited or paused, while the deterministic features run normally.
+Everything below runs on the one rule-based engine described in the [Introduction]({{ '/' | relative_url }}). Features marked **⏳ warming up** are AI-assisted and metered — while we're in community testing they may be limited or paused, while the rule-based features run normally.
 
 ## The news feed (Convicta News)
 
 - **Multi-source aggregation.** Convicta watches hundreds of channels plus RSS sources and brings them into one feed.
 - **Curated at scale.** Across all sources we curate up to ~500,000 news items a day and filter them down to what matters for you — you get the relevant handful, not the firehose. *(A breadth/throughput figure, not an accuracy claim.)*
 - **Deduplication.** Near-identical reposts of the same story are collapsed, so you see the story once instead of dozens of times.
-- **Deterministic tagging & filtering.** Each item is tagged by rule and sorted into your chosen categories — no black-box scoring.
+- **Rule-based tagging & filtering.** Each item is tagged by rule and sorted into your chosen categories — no black-box scoring.
 - **"Why you got this."** Cards carry context explaining why the item reached you, so the feed stays auditable.
 - **World-wires preview.** A curated world-news stream every free user gets automatically, so your feed is never empty.
 
@@ -49,7 +49,7 @@ Because Edge is a metered AI feature, it may be limited or paused while we're in
 - **Convicta News** offers a configurable **daily digest** (part of the paid plan; free to try during the testing phase).
 - **Pulse** offers digests on higher tiers.
 
-> Some digest content is AI-assisted (summaries, translations) and is **⏳ warming up** during community testing. The digest structure and deterministic content are delivered regardless; the AI-written summaries are what may be limited.
+> Some digest content is AI-assisted (summaries, translations) and is **⏳ warming up** during community testing. The digest structure and rule-based content are delivered regardless; the AI-written summaries are what may be limited.
 
 ## AI summaries & translations — ⏳ warming up
 
