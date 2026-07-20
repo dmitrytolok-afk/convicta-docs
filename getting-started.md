@@ -5,14 +5,13 @@ has_children: true
 permalink: /getting-started/
 ---
 
-# Getting started
+# Getting started with Convicta
 
-Convicta is an ecosystem of two products that share one engine. How you get started depends on which one you want:
+Convicta is one engine with four surfaces: two Telegram Mini Apps, a web app, and a Chrome extension. This page routes you to the setup guide for each. If you are new and unsure, start with **Convicta News** — it takes two minutes and requires nothing but Telegram.
 
-- **[Convicta News]({{ '/getting-started/convicta-news/' | relative_url }})** — the general product, open to everyone. Start the bot, pick your language and categories, and get your first digest.
-- **[Polymarket Pulse]({{ '/getting-started/polymarket-pulse/' | relative_url }})** — a community testing version, for people who already trade on Polymarket. Start the bot, connect your wallet, and get your first market signal.
-- **[Web version]({{ '/getting-started/web-version/' | relative_url }})** — sign in on the web with Google, email, or Telegram.
+- **[Convicta News]({{ '/getting-started/convicta-news/' | relative_url }})** — the personal news feed, open to everyone. Start the bot, pick your language and categories, get your feed.
+- **[Polymarket Pulse]({{ '/getting-started/polymarket-pulse/' | relative_url }})** — prediction-market alerts, built for people who follow or trade on Polymarket. Start the bot, connect your wallet (optional to browse), get your first alert.
+- **[Web app]({{ '/getting-started/web-version/' | relative_url }})** — both products in a browser. Sign in with Google, email, or Telegram.
+- **[Chrome extension]({{ '/getting-started/chrome-extension/' | relative_url }})** — Convicta directly on polymarket.com. Developer install today; Chrome Web Store listing upcoming.
 
-All of it is **free for your first two months** while we're in community testing — we're collecting feedback and some features aren't fully polished yet, which is why access is free right now. See [Pricing]({{ '/pricing/' | relative_url }}) for what happens after.
-
-If you're new and just want a smarter news feed, start with **Convicta News**.
+Everything is **free for your first two months** while Convicta is in community testing — we are collecting feedback and some features are not fully polished yet, which is why access is free right now. See [Pricing]({{ '/pricing/' | relative_url }}) for the plans that apply afterwards, and the [Settings map]({{ '/settings/' | relative_url }}) once you want to tune delivery.

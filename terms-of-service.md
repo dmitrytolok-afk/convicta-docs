@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-nav_order: 7
+nav_order: 9
 permalink: /terms-of-service/
 ---
 
