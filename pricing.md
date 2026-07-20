@@ -2,6 +2,8 @@
 title: Pricing
 nav_order: 5
 permalink: /pricing/
+description: >-
+  Convicta plans: Free, News+ $6/mo, Pulse Pro $12/mo, Pulse Edge $20/mo — annual gives 2 months free. Currently in open testing: everything is free.
 ---
 
 # How much does Convicta cost?

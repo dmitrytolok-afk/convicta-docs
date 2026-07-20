@@ -1,0 +1,17 @@
+# NOTE: this site lives at a subpath (github.io/convicta-docs/), and crawlers
+# only honor robots.txt at the host root — which GitHub controls, not us.
+# This file is therefore informational; crawling is allowed by default.
+# The sitemap below is the operative artifact: submit it to GSC/Bing directly.
+User-agent: *
+Allow: /
+
+# AI / generative crawlers — explicitly welcome
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://dmitrytolok-afk.github.io/convicta-docs/sitemap.xml

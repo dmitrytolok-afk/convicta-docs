@@ -2,6 +2,8 @@
 title: Roadmap
 nav_order: 6
 permalink: /roadmap/
+description: >-
+  What Convicta is working on: faster notification delivery in your language, matching quality, and trade execution on top of signals (in development).
 ---
 
 # What is Convicta working on?

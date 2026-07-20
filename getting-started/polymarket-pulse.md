@@ -3,6 +3,8 @@ title: Polymarket Pulse
 parent: Getting started
 nav_order: 2
 permalink: /getting-started/polymarket-pulse/
+description: >-
+  How to set up Polymarket Pulse: start @Convicta_pulse_bot, optionally connect a wallet, and get alerts on trades, whales, prices and resolutions.
 ---
 
 # How do I set up Polymarket Pulse?

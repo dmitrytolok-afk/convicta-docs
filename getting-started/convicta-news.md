@@ -3,6 +3,8 @@ title: Convicta News
 parent: Getting started
 nav_order: 1
 permalink: /getting-started/convicta-news/
+description: >-
+  How to set up Convicta News in Telegram: start @Convicta_news_bot, pick language and categories, and get your personal news feed in about two minutes.
 ---
 
 # How do I set up Convicta News?

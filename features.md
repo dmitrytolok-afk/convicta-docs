@@ -2,6 +2,8 @@
 title: Features
 nav_order: 3
 permalink: /features/
+description: >-
+  Every Convicta feature by product: the shared rule-based matching engine, the news feed, Pulse alerts, the Edge estimate, web app, and Chrome extension.
 ---
 
 # What can Convicta do?

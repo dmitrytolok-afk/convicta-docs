@@ -3,6 +3,8 @@ title: Getting started
 nav_order: 2
 has_children: true
 permalink: /getting-started/
+description: >-
+  Setup guides for every Convicta surface: Convicta News, Polymarket Pulse, the web app, and the Chrome extension. Pick your entry point.
 ---
 
 # Getting started with Convicta

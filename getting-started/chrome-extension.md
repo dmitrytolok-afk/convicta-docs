@@ -3,6 +3,8 @@ title: Chrome extension
 parent: Getting started
 nav_order: 4
 permalink: /getting-started/chrome-extension/
+description: >-
+  How to install the Convicta Chrome extension (developer install today): live alerts, matched news and the Edge estimate directly on polymarket.com.
 ---
 
 # How do I install the Convicta Chrome extension?

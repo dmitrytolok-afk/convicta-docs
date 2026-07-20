@@ -3,6 +3,8 @@ title: Web app
 parent: Getting started
 nav_order: 3
 permalink: /getting-started/web-version/
+description: >-
+  How to use Convicta in a browser: sign in with Google, email, or Telegram — your plan and settings carry over between Telegram and the web app.
 ---
 
 # How do I use Convicta in a browser?

@@ -2,6 +2,8 @@
 title: Privacy Policy
 nav_order: 8
 permalink: /privacy-policy/
+description: >-
+  Convicta Privacy Policy (testing/evaluation phase): what data the Service collects, how it is used, and how to delete it. Provider: Adoriasoft LLC.
 ---
 
 # Privacy Policy

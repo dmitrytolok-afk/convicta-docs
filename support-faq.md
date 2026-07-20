@@ -2,6 +2,8 @@
 title: Support & FAQ
 nav_order: 7
 permalink: /support-faq/
+description: >-
+  How to reach Convicta support (the /feedback command in the Telegram bots) and answers to the most common questions across the Convicta ecosystem.
 ---
 
 # Support & frequently asked questions

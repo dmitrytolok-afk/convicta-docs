@@ -2,6 +2,8 @@
 title: Settings map
 nav_order: 4
 permalink: /settings/
+description: >-
+  The complete map of Convicta settings: what each setting does, what off means, and where it lives — Convicta News, Polymarket Pulse, and the extension.
 ---
 
 # Settings map — every Convicta setting, by product

@@ -6,6 +6,23 @@ remote_theme: just-the-docs/just-the-docs
 url: https://dmitrytolok-afk.github.io
 baseurl: /convicta-docs
 
+# SEO/GEO
+# jekyll-seo-tag is invoked by the theme's head ({% seo %}) and emits title,
+# description, canonical, og:*, twitter:* and WebSite JSON-LD per page.
+# jekyll-sitemap generates /sitemap.xml from all pages (both are on the
+# GitHub Pages plugin whitelist).
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Default social share image for every page (jekyll-seo-tag makes it absolute).
+# 1200x630 PNG — same asset as the landing's og:image.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-1200x630.png
+
 # Theme options
 color_scheme: dark
 search_enabled: true

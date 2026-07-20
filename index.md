@@ -2,6 +2,8 @@
 title: Introduction
 nav_order: 1
 permalink: /
+description: >-
+  What Convicta is: a news-to-action ecosystem — 1,600+ sources in 20 languages, rule-based news-to-market matching for Polymarket, four surfaces. Start here.
 ---
 
 # What is Convicta?

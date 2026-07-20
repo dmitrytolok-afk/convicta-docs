@@ -2,6 +2,8 @@
 title: Terms of Service
 nav_order: 9
 permalink: /terms-of-service/
+description: >-
+  Convicta Terms of Service (testing/evaluation phase) for the News and Pulse Telegram Mini Apps and their web versions. Provider: Adoriasoft LLC.
 ---
 
 # Terms of Service
