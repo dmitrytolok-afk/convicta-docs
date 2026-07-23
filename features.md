@@ -56,6 +56,20 @@ That is why the products feel consistent: a story that appears in your News feed
 
 - **Edge** is an AI-computed fair-value estimate for a market — a number to weigh against the current price. It is an early, experimental version that improves as our models and data improve. Edge is **not financial advice**; the decision is always yours.
 
+### How Edge is calculated?
+
+Edge is a **consensus estimate produced by several AI models**, not a single model's opinion:
+
+1. For every covered market we assemble a compact evidence pack: the market's resolution rules, the current price, and the curated news context Convicta has matched to that market (the same traceable news you see in the widget).
+2. That pack is independently evaluated by AI models, each returning its own fair-probability estimate with a short rationale.
+3. The estimates are reconciled into a single consensus fair value; **Edge is the gap between that consensus and the current market price** (in percentage points). The "why?" link shows the plain-English rationale behind the number.
+
+We are early in this program: the model roster is small today and expands as we validate results — which is also why Edge is labeled experimental.
+
+**Coming later — bring your own model.** We plan to let you plug in **your own API key** (for the model provider of your choice): on your request, the app will hand your model the same news-and-rules evidence pack, pre-optimized for that model's context format, and use its answer in your Edge view. Responses are **cached** so repeat recalculations don't burn your API budget.
+
+Edge remains a research aid, not financial advice; the decision is always yours.
+
 ## Web app features
 
 The web app mirrors both Mini Apps in a browser: the news feed, market browsing, portfolio, and all settings. Sign in with Google, email, or Telegram; the same plan applies everywhere. Alerts and digests are still delivered in Telegram — the web is the reading-and-managing surface. See [Getting started: Web app]({{ '/getting-started/web-version/' | relative_url }}).

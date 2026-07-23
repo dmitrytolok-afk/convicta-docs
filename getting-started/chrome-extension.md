@@ -4,12 +4,12 @@ parent: Getting started
 nav_order: 4
 permalink: /getting-started/chrome-extension/
 description: >-
-  How to install the Convicta Chrome extension (developer install today): live alerts, matched news and the Edge estimate directly on polymarket.com.
+  How to install the Convicta Chrome extension: live alerts, matched news and the Edge estimate directly on polymarket.com.
 ---
 
 # How do I install the Convicta Chrome extension?
 
-The Convicta Pulse Chrome extension adds a Convicta layer directly on top of **polymarket.com**: news and the Edge estimate on every market page, a real-time notification center, trader-profile tools, and coverage indicators on market lists. The extension is built and works today via **developer ("unpacked") install**; a **Chrome Web Store listing is upcoming**. Installing the extension is free.
+The Convicta Pulse Chrome extension adds a Convicta layer directly on top of **polymarket.com**: news and the Edge estimate on every market page, a real-time notification center, trader-profile tools, and coverage indicators on market lists. The extension is distributed through the **Chrome Web Store** (listing in review — the install link will appear here and on [convicta.ai](https://convicta.ai) the moment it is live). Installing the extension is free.
 
 ## What does the extension add to polymarket.com?
 
@@ -24,15 +24,11 @@ The Convicta Pulse Chrome extension adds a Convicta layer directly on top of **p
 
 Every one of these surfaces has its own on/off toggle in the extension's Options — see the [Settings map]({{ '/settings/' | relative_url }}#chrome-extension).
 
-## Installing (developer install, current method)
+## Installing
 
-1. Download the extension folder (`.zip`) from the link we share in the Telegram bots or the community channel, and unzip it.
-2. Open `chrome://extensions` in Chrome.
-3. Turn on **Developer mode** (top-right toggle).
-4. Click **"Load unpacked"** and select the unzipped extension folder.
-5. Open [polymarket.com](https://polymarket.com) — the Convicta surfaces appear automatically.
+The extension is about to land on the **Chrome Web Store** — one-click install, automatic updates. The listing is currently in review; this page and the [convicta.ai](https://convicta.ai) footer will link to it as soon as it is published.
 
-When the Chrome Web Store listing goes live, installation becomes one click and updates become automatic; until then, updating means loading a newer folder the same way.
+Until then, early-access builds are available on request in our community channels ([Telegram](https://t.me/convicta_news) · [Discord](https://discord.gg/sUQ4nkCsB)).
 
 ## Do I need an account?
 
