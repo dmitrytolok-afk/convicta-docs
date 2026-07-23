@@ -18,19 +18,19 @@ every new user gets a two-month grant on the full-featured tier; nothing charges
 
 ## Docs
 
-- [Introduction — what is Convicta?](https://dmitrytolok-afk.github.io/convicta-docs/)
-- [Getting started (all four surfaces)](https://dmitrytolok-afk.github.io/convicta-docs/getting-started/)
-- [Getting started: Convicta News](https://dmitrytolok-afk.github.io/convicta-docs/getting-started/convicta-news/)
-- [Getting started: Polymarket Pulse](https://dmitrytolok-afk.github.io/convicta-docs/getting-started/polymarket-pulse/)
-- [Getting started: Web app](https://dmitrytolok-afk.github.io/convicta-docs/getting-started/web-version/)
-- [Getting started: Chrome extension](https://dmitrytolok-afk.github.io/convicta-docs/getting-started/chrome-extension/)
-- [Features — everything each product does](https://dmitrytolok-afk.github.io/convicta-docs/features/)
-- [Settings map — every user-facing setting](https://dmitrytolok-afk.github.io/convicta-docs/settings/)
-- [Pricing](https://dmitrytolok-afk.github.io/convicta-docs/pricing/)
-- [Roadmap](https://dmitrytolok-afk.github.io/convicta-docs/roadmap/)
-- [Support & FAQ](https://dmitrytolok-afk.github.io/convicta-docs/support-faq/)
-- [Privacy Policy](https://dmitrytolok-afk.github.io/convicta-docs/privacy-policy/)
-- [Terms of Service](https://dmitrytolok-afk.github.io/convicta-docs/terms-of-service/)
+- [Introduction — what is Convicta?](https://docs.convicta.ai/)
+- [Getting started (all four surfaces)](https://docs.convicta.ai/getting-started/)
+- [Getting started: Convicta News](https://docs.convicta.ai/getting-started/convicta-news/)
+- [Getting started: Polymarket Pulse](https://docs.convicta.ai/getting-started/polymarket-pulse/)
+- [Getting started: Web app](https://docs.convicta.ai/getting-started/web-version/)
+- [Getting started: Chrome extension](https://docs.convicta.ai/getting-started/chrome-extension/)
+- [Features — everything each product does](https://docs.convicta.ai/features/)
+- [Settings map — every user-facing setting](https://docs.convicta.ai/settings/)
+- [Pricing](https://docs.convicta.ai/pricing/)
+- [Roadmap](https://docs.convicta.ai/roadmap/)
+- [Support & FAQ](https://docs.convicta.ai/support-faq/)
+- [Privacy Policy](https://docs.convicta.ai/privacy-policy/)
+- [Terms of Service](https://docs.convicta.ai/terms-of-service/)
 
 Contact: the /feedback command inside the Telegram bots @Convicta_news_bot and
 @Convicta_pulse_bot. Provider: Adoriasoft LLC.

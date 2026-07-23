@@ -3,8 +3,8 @@ description: >-
   Convicta is a news engine that understands what a headline means — and, when
   it matters, what that means for a market. Public documentation.
 remote_theme: just-the-docs/just-the-docs
-url: https://dmitrytolok-afk.github.io
-baseurl: /convicta-docs
+url: https://docs.convicta.ai
+baseurl: ""
 
 # SEO/GEO
 # jekyll-seo-tag is invoked by the theme's head ({% seo %}) and emits title,

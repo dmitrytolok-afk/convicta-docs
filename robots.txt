@@ -1,4 +1,4 @@
-# NOTE: this site lives at a subpath (github.io/convicta-docs/), and crawlers
+# Site lives at docs.convicta.ai (Cloudflare Pages); crawlers
 # only honor robots.txt at the host root — which GitHub controls, not us.
 # This file is therefore informational; crawling is allowed by default.
 # The sitemap below is the operative artifact: submit it to GSC/Bing directly.
@@ -14,4 +14,4 @@ User-agent: PerplexityBot
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://dmitrytolok-afk.github.io/convicta-docs/sitemap.xml
+Sitemap: https://docs.convicta.ai/sitemap.xml
